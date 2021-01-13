@@ -36,3 +36,4 @@ public class Solution {
         scanner.close();
     }
 }
+// 28 day problem
